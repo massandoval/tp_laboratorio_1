@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1553872214 source:c:\users\alumno\desktop\tp1programacion\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1553872167 c:\users\alumno\desktop\tp1programacion\biblioteca.h
+
+1553871981 source:c:\users\alumno\desktop\tp1programacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1554149163 source:c:\users\matias sandoval\desktop\trabajo práctico programacion\tp1programacion-master\tp1programacion-master\tp1programacion\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1554149011 c:\users\matias sandoval\desktop\trabajo práctico programacion\tp1programacion-master\tp1programacion-master\tp1programacion\biblioteca.h
+
+1554149272 source:c:\users\matias sandoval\desktop\trabajo práctico programacion\tp1programacion-master\tp1programacion-master\tp1programacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1554314009 source:c:\users\matias sandoval\desktop\tp1programacion\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1554314008 c:\users\matias sandoval\desktop\tp1programacion\biblioteca.h
+
+1554315484 source:c:\users\matias sandoval\desktop\tp1programacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1554315634 source:c:\users\nahuel\desktop\tp_laboratorio_1-master\tp1programacion\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1554315634 c:\users\nahuel\desktop\tp_laboratorio_1-master\tp1programacion\biblioteca.h
+
+1554315634 source:c:\users\nahuel\desktop\tp_laboratorio_1-master\tp1programacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
