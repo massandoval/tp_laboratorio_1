@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1557542221 source:c:\users\matias sandoval\desktop\tp2 laboratorio\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1557541994 c:\users\matias sandoval\desktop\tp2 laboratorio\arrayemployees.h
+
+1557542194 source:c:\users\matias sandoval\desktop\tp2 laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1570213609 source:c:\users\matias sandoval\desktop\clase 4 - estacionamiento\tp2programacion\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1570213608 c:\users\matias sandoval\desktop\clase 4 - estacionamiento\tp2programacion\arrayemployees.h
+
+1570213613 source:c:\users\matias sandoval\desktop\clase 4 - estacionamiento\tp2programacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
