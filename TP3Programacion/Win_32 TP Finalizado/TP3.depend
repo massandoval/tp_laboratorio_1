@@ -1,0 +1,176 @@
+# depslib dependency file v1.0
+1533062952 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.c
+
+1533063050 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/LinkedList.h
+
+1533062926 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533062952 source:/home/mauro/Descargas/TP3/Linux_64/Employee.c
+
+1533066103 source:/home/mauro/Descargas/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/TP3/Linux_64/LinkedList.h
+
+1533066103 /home/mauro/Descargas/TP3/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533145792 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/LinkedList.h
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.h
+
+1533118898 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.c
+
+1533145890 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572528628 source:c:\users\alumno\desktop\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572523210 c:\users\alumno\desktop\win_64\linkedlist.h
+
+1572528592 c:\users\alumno\desktop\win_64\employee.h
+
+1572528582 source:c:\users\alumno\desktop\win_64\employee.c
+	"Employee.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572526283 source:c:\users\alumno\desktop\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572528614 source:c:\users\alumno\desktop\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1572523210 c:\users\alumno\desktop\win_64\controller.h
+
+1572527075 source:c:\users\alumno\desktop\win_64\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1572527040 c:\users\alumno\desktop\win_64\funciones.h
+
+1573138645 source:c:\users\alumno\desktop\labprog-master\tp hacer\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573128159 c:\users\alumno\desktop\labprog-master\tp hacer\linkedlist.h
+
+1573128159 c:\users\alumno\desktop\labprog-master\tp hacer\employee.h
+
+1573128159 source:c:\users\alumno\desktop\labprog-master\tp hacer\employee.c
+	"Employee.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1573128159 source:c:\users\alumno\desktop\labprog-master\tp hacer\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1573128159 c:\users\alumno\desktop\labprog-master\tp hacer\funciones.h
+
+1573137077 source:c:\users\alumno\desktop\labprog-master\tp hacer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1573128159 c:\users\alumno\desktop\labprog-master\tp hacer\controller.h
+
+1573128160 source:c:\users\alumno\desktop\labprog-master\tp hacer\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573266413 source:c:\users\matias sandoval\desktop\tp hacer\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573139282 c:\users\matias sandoval\desktop\tp hacer\linkedlist.h
+
+1573266188 c:\users\matias sandoval\desktop\tp hacer\employee.h
+	"LinkedList.h"
+
+1573266052 source:c:\users\matias sandoval\desktop\tp hacer\employee.c
+	"Employee.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1573139282 source:c:\users\matias sandoval\desktop\tp hacer\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1573139282 c:\users\matias sandoval\desktop\tp hacer\funciones.h
+
+1573265756 source:c:\users\matias sandoval\desktop\tp hacer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1573139282 c:\users\matias sandoval\desktop\tp hacer\controller.h
+
+1573139282 source:c:\users\matias sandoval\desktop\tp hacer\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
